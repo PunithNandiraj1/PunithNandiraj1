@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/punithnandiraj" target="blank"><img src="https://img.shields.io/twitter/follow/punithnandiraj?logo=twitter&style=for-the-badge" alt="punithnandiraj" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs , Deno , Fresh , Ruby , Solidity , Threejs**
+- 🌱 I’m currently learning **Nextjs , Deno , Fresh , Solidity , Threejs**
 
 - 👨‍💻 All of my projects are available at [https://punith-portfolio.vercel.app/](https://punith-portfolio.vercel.app/)
 
