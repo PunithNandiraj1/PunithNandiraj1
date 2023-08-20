@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs , Deno , Fresh , Solidity , Threejs**
 
-- 👨‍💻 All of my projects are available at [https://punith-portfolio.vercel.app/](https://punith-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://punith-portfolio.vercel.app/](https://punith-portfolio.vercel.app/](https://punith-n-portfolio.framer.website/))
 
 - 💬 Ask me about **Research and Development**
 
